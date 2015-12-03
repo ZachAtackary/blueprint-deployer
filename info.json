@@ -1,0 +1,10 @@
+{
+  "name": "blueprintDeployer",
+  "version": "1.0.0",
+  "title": "blueprintDeployer - automation to the next level",
+  "author": "ZachAttackary",
+  "homepage": "",
+  "contact": "zm9501@gmail.com",
+  "description": "Place and deconstruct the world without ever moving a finger!",
+  "dependencies": ["base >= 0.12.10"]
+}
